@@ -67,3 +67,64 @@ button{
         margin-top:0px;
     }
 }
+
+#container-id{
+    margin-top:50px;
+}
+.box1{
+    width:70%;
+    height:200px;
+    background-color:#b3b4b857 ;
+    display: block;
+    margin: 0 auto;
+    border:9px solid black;
+}
+.container1{
+    color:black;
+    background-color: white;
+    border-radius:5px;
+    padding:5px 10px;
+    border:none;
+    text-align: center;
+    margin:6px;
+
+
+}
+.calculate{
+    display: block;
+    margin: 0 auto;
+    width:400px;
+    margin-top:30px;
+
+   
+}
+.calculate-area1{
+    display: grid;
+    grid-template-columns:auto auto auto auto auto auto auto auto auto auto;
+
+}
+.calculate-area2{
+    display:grid;
+    padding:0 18px;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    
+
+}
+.calculate3{
+    display: grid;
+    padding:0 35px;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+}
+
+.container-last{
+    display: flex;
+    justify-content:space-around;
+
+}
+h5{
+    background-color:#894189 ;
+    border-radius:5px;
+    padding:5px 20px;
+    color:white;
+
+}
